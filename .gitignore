@@ -1,0 +1,21 @@
+# Virtual environment
+venv/
+env/
+.venv/
+
+# API keys
+.env
+
+# Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+
+# VS Code settings
+.vscode/
+
+# Mac files
+.DS_Store
+
+# Text files with personal data
+*.txt
